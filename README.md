@@ -13,17 +13,17 @@ The font associated with Tron is also very specific. In the original movie as we
 
 
 ## Research for Ideas
-###Links
+### Links
 **https://en.wikipedia.org/wiki/Tron
 
-###Movies
+### Movies
 **Soundtrack Legacy : https://www.youtube.com/watch?v=OIM8RxaK5rE
 **Original Trailer : https://www.youtube.com/watch?v=3efV2wqEjEY
 **Making of Legacy : https://www.youtube.com/watch?v=UyvsCVX6qvQ
 **Making of Original : https://www.youtube.com/watch?v=pr2LvJUI6ZY
 
 
-###Pictures
+### Pictures
 **Programing UI :  http://payload.cargocollective.com/1/0/2995/1190816/059.TRONSS.08_o.JPG
 
 **Original Costume : http://vignette2.wikia.nocookie.net/tron/images/e/eb/Tron_Program.png/revision/latest?cb=20130119022842
