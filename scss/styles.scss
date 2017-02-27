@@ -2,20 +2,18 @@
 @import 'google-homepage';
 
     
-// First Frame
+ First Frame
 img {
-    opacity: .5;
-    transform: scale(.25) rotate(0); 
-    width: 40%;
+   
+    height: auto;
+    width: auto;
     
-    transition: transform 1s;   
+//    transition: transform 1s;   
 }
     
-// Last Frame
-img:hover {
-    opacity: 1;
-    transform: scale(1) rotate(360deg);
-}
+ Last Frame
+
+
 
 .line {
     fill:none;

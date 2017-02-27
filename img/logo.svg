@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.59;fill:none;stroke:#F2F2F2;stroke-width:4;stroke-miterlimit:10;}
+	.st1{opacity:0.59;fill:none;stroke:#29ABE2;stroke-width:9;stroke-miterlimit:10;}
+	.st2{opacity:0.59;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="back_glow">
+	<path class="st0" d="M470.9,291.2v-19.3h-48.2c0,0-26.8,5.4-33.2,41.7c0,0-1.1,8.6,2.1,19.3c0,0,2.1,16.1,30,30h49.2v-19.3h-45
+		c0,0-18.2-8.6-16.1-30c0,0-1.1-12.8,19.3-22.5H470.9z"/>
+	<polygon class="st0" points="439.9,309.4 470.9,309.4 470.9,343.7 	"/>
+	<circle class="st0" cx="535.7" cy="317.4" r="45.5"/>
+	<circle class="st0" cx="536.8" cy="317.4" r="26.2"/>
+	<circle class="st0" cx="637.4" cy="317.4" r="45.5"/>
+	<path class="st0" d="M776,291.2v-19.3h-48.2c0,0-26.8,5.4-33.2,41.7c0,0-1.1,8.6,2.1,19.3c0,0,2.1,16.1,30,30H776v-19.3h-45
+		c0,0-18.2-8.6-16.1-30c0,0-1.1-12.8,19.3-22.5H776z"/>
+	<circle class="st0" cx="638.5" cy="317.4" r="26.2"/>
+	<polygon class="st0" points="745,309.4 776,309.4 776,343.7 	"/>
+	<polygon class="st0" points="794.2,271.9 794.2,362.9 868,362.9 868,343.7 833.8,343.7 833.8,271.9 	"/>
+	<rect x="895.9" y="271.9" class="st0" width="93.1" height="19.3"/>
+	<polygon class="st0" points="895.9,307.3 895.9,362.9 989,362.9 989,343.7 916.2,343.7 916.2,326.5 930.1,326.5 930.1,307.3 	"/>
+</g>
+<g id="Front_glow">
+	<path class="st1" d="M464.5,291.2v-19.3h-48.2c0,0-26.8,5.4-33.2,41.7c0,0-1.1,8.6,2.1,19.3c0,0,2.1,16.1,30,30h49.2v-19.3h-45
+		c0,0-18.2-8.6-16.1-30c0,0-1.1-12.8,19.3-22.5H464.5z"/>
+	<polygon class="st1" points="433.5,309.4 464.5,309.4 464.5,343.7 	"/>
+	<circle class="st1" cx="529.3" cy="317.4" r="45.5"/>
+	<circle class="st1" cx="530.3" cy="317.4" r="26.2"/>
+	<circle class="st1" cx="631" cy="317.4" r="45.5"/>
+	<path class="st1" d="M769.6,291.2v-19.3h-48.2c0,0-26.8,5.4-33.2,41.7c0,0-1.1,8.6,2.1,19.3c0,0,2.1,16.1,30,30h49.2v-19.3h-45
+		c0,0-18.2-8.6-16.1-30c0,0-1.1-12.8,19.3-22.5H769.6z"/>
+	<circle class="st1" cx="632" cy="317.4" r="26.2"/>
+	<polygon class="st1" points="738.5,309.4 769.6,309.4 769.6,343.7 	"/>
+	<polygon class="st1" points="787.8,271.9 787.8,362.9 861.6,362.9 861.6,343.7 827.4,343.7 827.4,271.9 	"/>
+	<rect x="889.5" y="271.9" class="st1" width="93.1" height="19.3"/>
+	<polygon class="st1" points="889.5,307.3 889.5,362.9 982.6,362.9 982.6,343.7 909.8,343.7 909.8,326.5 923.7,326.5 923.7,307.3 	
+		"/>
+	<g id="Layer_4">
+		<g id="Layer_5">
+		</g>
+	</g>
+</g>
+<g id="White_glow">
+	<path class="st2" d="M464.5,292.3V273h-48.2c0,0-26.8,5.4-33.2,41.7c0,0-1.1,8.6,2.1,19.3c0,0,2.1,16.1,30,30h49.2v-19.3h-45
+		c0,0-18.2-8.6-16.1-30c0,0-1.1-12.8,19.3-22.5H464.5z"/>
+	<polygon class="st2" points="433.5,310.5 464.5,310.5 464.5,344.7 	"/>
+	<circle class="st2" cx="529.3" cy="318.5" r="45.5"/>
+	<circle class="st2" cx="530.3" cy="318.5" r="26.2"/>
+	<circle class="st2" cx="631" cy="318.5" r="45.5"/>
+	<path class="st2" d="M769.6,292.3V273h-48.2c0,0-26.8,5.4-33.2,41.7c0,0-1.1,8.6,2.1,19.3c0,0,2.1,16.1,30,30h49.2v-19.3h-45
+		c0,0-18.2-8.6-16.1-30c0,0-1.1-12.8,19.3-22.5H769.6z"/>
+	<circle class="st2" cx="632" cy="318.5" r="26.2"/>
+	<polygon class="st2" points="738.5,310.5 769.6,310.5 769.6,344.7 	"/>
+	<polygon class="st2" points="787.8,273 787.8,364 861.6,364 861.6,344.7 827.4,344.7 827.4,273 	"/>
+	<rect x="889.5" y="273" class="st2" width="93.1" height="19.3"/>
+	<polygon class="st2" points="889.5,308.3 889.5,364 982.6,364 982.6,344.7 909.8,344.7 909.8,327.6 923.7,327.6 923.7,308.3 	"/>
+</g>
+</svg>

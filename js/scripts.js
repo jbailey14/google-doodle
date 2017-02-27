@@ -1,12 +1,14 @@
 // YOUR SCRIPTS GO HERE
 
 // Store 3 images
-var img0 = '../img/200.jpg';
-var img1 = '../img/300.jpg';
-var img2 = '../img/400.jpg';
+var img0 = '../img/tron1.jpg';
+var img1 = '../img/tron2.jpg';
+var img2 = '../img/tron3.jpg';
+var img3 = '../img/tron4.jpg';
+var img4 = '../img/tron5.jpg';
 
 // Get random number
-var max = 3;
+var max = 5;
 var numRand = Math.floor( Math.random() * max );
 console.log(numRand);
 
