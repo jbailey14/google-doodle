@@ -15,3 +15,11 @@ console.log(numRand);
 // Display random img
 $('#random').attr('src', eval('img' + numRand) );
 
+// Draw SVG
+var myLine = $('svg').drawsvg({
+    duration: 3000,
+  reverse: true
+  
+});
+
+myLine.drawsvg('animate');

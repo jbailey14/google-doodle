@@ -5,11 +5,17 @@
     background: gray;
     height: 300px;
     width: 600px;
+    overflow: hidden;
+    position: relative;
 }
 
-#stage #star {
-    height: 100px;
-    width: 100px;
+#logo {
+    height: 60%;
+    width: 60%;
+    position: absolute;
+    z-index: 2;
+    top: 55px;
+    right: 120px;
 }
 
 
