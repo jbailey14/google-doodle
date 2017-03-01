@@ -18,21 +18,27 @@
     right: 75px;
 }
 
-// first frame
-
-
-
-// last frame
-
 #script {
     height: 145%;
     width: 145%;
     position: absolute;
     z-index: 2;
-    top: 1px;
-    right: -35px;
+    top: 0px;
+    right: -5px; 
+    opacity: .3;
+    
+    animation: fadeOut 4s 1;
 }
 
+@keyframes fadeOut {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: .3;
+  }
+}
 
 
 
