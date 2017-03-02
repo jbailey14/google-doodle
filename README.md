@@ -35,3 +35,8 @@ The font associated with Tron is also very specific. In the original movie as we
 **Additonal UI : http://payload.cargocollective.com/1/0/2995/1190825/064.TRONBR.06_4_o.JPG
 
 **Computer Desk : http://i.imgur.com/FoB38.jpg
+
+## Credit Where Credit's Due
+**Background Images were downloaded from Google and altered slightly in Ai.
+**Keyframe animation from Animate.css. Check it out, it's good stuff!
+**The svg images were fun to make :)
