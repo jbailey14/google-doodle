@@ -1,8 +1,8 @@
 // Paste jQuery Plugin Code Here
 
-(function(factory) {
+(function (factory) {
   /* global define */
-  if ( typeof define === 'function' && define.amd ) {
+  if (typeof define === 'function' && define.amd) {
     define(['jquery'], factory);
   } else if ( typeof module === 'object' && module.exports ) {
     // Node/CommonJS
